@@ -2,4 +2,4 @@
 
 👋 Hi, I’m @majuok, a student learning web development.
 
-Currently I know the basics of HTML, CSS, JS, C and Python.
+Currently I know the basics of HTML, CSS, JS, C, C#, PHP, SQL and Python.
